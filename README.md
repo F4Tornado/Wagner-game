@@ -1,4 +1,4 @@
-#Wagner Game
+# Wagner Game
 
 A game designed for ny enviromental science teacher Mr. Wagner in exchange for a flint knapped object created by him.
 
